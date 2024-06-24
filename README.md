@@ -1,6 +1,6 @@
-# Proyecto de Migración de Datos de Team Support a Flexygo
+# Proyecto de Migración de Datos de Team Support a una Base de Datos
 
-Este proyecto tiene como objetivo recoger datos de Team Support a través de su API en formato JSON, crear una base de datos a partir de esos datos, y migrar los datos a la nueva base de datos utilizando Node.js. Finalmente, la base de datos se conectará a una aplicación Flexygo.
+Este proyecto tiene como objetivo recoger datos de Team Support a través de su API en formato JSON, crear una base de datos a partir de esos datos, y migrar los datos a la nueva base de datos utilizando Node.js y Sequelize.
 
 ## Tabla de Contenidos
 
