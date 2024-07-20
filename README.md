@@ -128,7 +128,7 @@ Generar las actions de los Tickets
 ej: node generateActions.js
 
 ### Insertar a BD
-Insertar todo en la BD 
+Insertar todo en la BD : 
 node store/insertAll.js
 
 # ReadOfApiTeamSupport
