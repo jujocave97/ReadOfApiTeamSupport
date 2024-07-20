@@ -131,5 +131,4 @@ ej: node generateActions.js
 Insertar todo en la BD 
 node store/insertAll.js
 
-# work in progress# ReadOfApiTeamSupport
 # ReadOfApiTeamSupport
